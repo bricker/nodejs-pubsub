@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/pubsub?activeTab=versions
 
+## [2.2.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.1.0...v2.2.0) (2020-06-10)
+
+
+### Features
+
+* move ts target to es2018 from es2016 ([#1022](https://www.github.com/googleapis/nodejs-pubsub/issues/1022)) ([016568d](https://www.github.com/googleapis/nodejs-pubsub/commit/016568df466c2a543762ab4f194b785a426ad880))
+
 ## [2.1.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.0.0...v2.1.0) (2020-06-02)
 
 
